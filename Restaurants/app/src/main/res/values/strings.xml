@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="error_restaurants">Unable to fetch restaurants. Please try again after sometime!</string>
+</resources>
